@@ -2,7 +2,10 @@
 
 If you want to get cracking on the javascript source then do this:
 
-`git clone git@github.com:bressain/gilded-rose.git`
+`git clone git@github.com:bressain/gilded-rose-js.git`
+`cd gilded-rose-js`
+`npm install`
+`npm run test`
 
 Hi and welcome to team Gilded Rose.
 
