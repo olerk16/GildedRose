@@ -6,8 +6,14 @@ If you want to get cracking on the javascript source then do this:
 git clone git@github.com:bressain/gilded-rose-js.git
 cd gilded-rose-js
 npm install
-npm run test
+npm start
 ```
+
+To run tests: `npm run test`
+
+Pro-tip: View `package.json` for test watch and other scripts.
+
+## Instructions
 
 Hi and welcome to team Gilded Rose.
 
