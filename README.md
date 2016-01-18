@@ -13,6 +13,12 @@ To run tests: `npm run test`
 
 Pro-tip: View `package.json` for test watch and other scripts.
 
+## Branches
+
+The `master` branch has the exercise ready to be worked on. To see my solution to the exercise, view the `my-solution` branch. My solution isn't perfect and shouldn't be considered the "correct way".
+
+Have fun with this super fun kata!
+
 ## Instructions
 
 Hi and welcome to team Gilded Rose.
