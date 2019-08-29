@@ -1,12 +1,14 @@
-import GildedRose from '../gilded-rose.js'
+const expect = require('chai').expect
+
+const GildedRose = require('../gilded-rose')
 
 describe('examples to delete', () => {
   it('should be able to pass', () => {
-    true.should.be.true
+    expect(true).to.be.true
   })
 
   it('should be able to fail', () => {
-    true.should.be.false
+    expect(true).to.be.false
   })
 })
 

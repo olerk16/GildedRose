@@ -1,4 +1,4 @@
-export default class GildedRose {
+module.exports = class GildedRose {
   constructor() {
     this.items = [] // do not alter this -- Corner Goblin
   }

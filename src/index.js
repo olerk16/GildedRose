@@ -1,5 +1,5 @@
-import GildedRose from './gilded-rose'
-import Item from './item'
+const GildedRose = require('./gilded-rose')
+const Item = require('./item')
 
 const gildedRose = new GildedRose()
 gildedRose.items.push(new Item('+5 Dexterity Vest', 10, 20))

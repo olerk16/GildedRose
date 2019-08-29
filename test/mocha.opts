@@ -1,4 +1,0 @@
---require test/babel-register.js
---require chai
---require test/assertions.js
---reporter spec

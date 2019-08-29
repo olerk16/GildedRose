@@ -10,8 +10,7 @@ npm start
 ```
 
 To run tests: `npm run test`
-
-Pro-tip: View `package.json` for test watch and other scripts.
+To run tests in watch mode: `npm run test:watch`
 
 ## Branches
 
